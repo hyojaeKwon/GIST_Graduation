@@ -1,4 +1,12 @@
-# gijol
+# gijol 2nd
+
+
+
+**Determining the possibility of graduating from GIST College.**
+
+
+
+
 
 ## Project setup
 ```
